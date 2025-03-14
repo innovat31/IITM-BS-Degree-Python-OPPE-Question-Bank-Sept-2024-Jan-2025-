@@ -1,0 +1,2 @@
+# IITM-BS-Degree-Python-OPPE-Question-Bank-Sept-2024-Jan-2025-
+Comprehensive and complete set of Python OPPE questions and answers are found in this repository. It contains all question papers for all academic terms of September 2024 and January 2025.  This is for students and educators looking for structurally sound solutions and being well-prepared for exams. All contributions and discussions are welcome!
